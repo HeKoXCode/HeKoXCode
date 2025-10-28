@@ -63,7 +63,7 @@ Soy alguien que combina **razón, intuición y energía**, para encontrar la mej
 
 ## 🌐 Conectemos
 
-📩 [LinkedIn](https://www.linkedin.com/in/tuusuario) | ✉️ Email: playeropgames@gmail.com
+📩 [LinkedIn](https://www.linkedin.com/in/percy-i-marzoratti-hill) | ✉️ Email: playeropgames@gmail.com
 
 📊 [Proyectos en Power BI y Python con automatización de datos](https://github.com/HeKoXCode/Henry-D.A.-Project)  
 📚 [Propuesta de Proyecto y Analisis inicial NBA Analytics](https://docs.google.com/presentation/d/1VyLnXVjSEtxmJxQugD8gpWPh6bmz1NeUFdPtW4_ZOl8/edit?usp=sharing)
