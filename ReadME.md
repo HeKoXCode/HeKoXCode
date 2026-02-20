@@ -1,4 +1,4 @@
-#👋 Hi, I'm Percy Ignacio Marzoratti Hill
+# 👋 Hi, I'm Percy Ignacio Marzoratti Hill
 
 🎯 **Data Analyst | BI Architecture & Automation | SQL Server | Python | Power BI | Data Warehouse Modeling**
 
