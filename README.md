@@ -29,6 +29,8 @@ I turned six historical NBA datasets into an auditable ETL, a canonical SQL Serv
 - **Quality boundary:** the repository processes 30.6 MB of versioned real inputs; it does not claim a completed 22 GB run.
 - **Result:** ETL, SQL reconciliation and all six report pages are verified through NBA-I4.
 
+[![NBA historical performance dashboard](https://raw.githubusercontent.com/HeKoXCode/nba-analytics-platform/main/IMAGES/powerbi_storytelling/02_panorama_historico.png)](https://github.com/HeKoXCode/nba-analytics-platform)
+
 ### 3. [Financial Performance Dashboard](https://github.com/HeKoXCode/financial-performance-dashboard-powerbi)
 
 I redesigned and hardened an executive Power BI case around revenue, margin, costs, prior-year performance and a correctly scoped USA drill-down.
@@ -87,7 +89,7 @@ My background includes technical support, hardware and software troubleshooting,
 ## 🌐 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/percy-i-marzoratti-hill)
-- Email: `playeropgames@gmail.com`
+- Email: `percy.marzoratti@gmail.com`
 
 ---
 
