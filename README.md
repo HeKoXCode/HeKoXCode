@@ -46,9 +46,9 @@ I redesigned and hardened an executive Power BI case around revenue, margin, cos
 I maintain a local-first Django application for financed sales, loans, installments, collections, backups and reporting. It demonstrates product delivery and provides a privacy-aware bridge into analytics.
 
 - **Stack:** Python, Django, SQLite/PostgreSQL, Docker and pytest.
-- **Evidence:** 225 tests, 88% combined line-and-branch coverage and a verified Windows portable release.
+- **Evidence:** 336 functional tests, 88% verified coverage and a Windows portable release with documented migration and package checks.
 - **Analytics bridge:** reconciled internal dashboard and an 11-file, pseudonymized Power BI-ready export.
-- **Distribution:** `v1.1.0` includes the portable ZIP, SHA-256 checksum and release audit.
+- **Distribution:** `v1.8.0` includes the full portable ZIP, update package, SHA-256 checksums and release audits.
 
 [![Gestión Financiera analytical dashboard](https://raw.githubusercontent.com/HeKoXCode/gestion-financiera-local/main/docs/assets/analytics-gf-c2.png)](https://github.com/HeKoXCode/gestion-financiera-local)
 
