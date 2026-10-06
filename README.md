@@ -20,16 +20,20 @@ I built a reproducible ETL and data-quality workflow to evaluate restaurant conc
 
 [![Miami demand and coverage analysis](https://raw.githubusercontent.com/HeKoXCode/miami-restaurant-opportunity-etl/main/docs/assets/04_demand_vs_coverage.png)](https://github.com/HeKoXCode/miami-restaurant-opportunity-etl)
 
+[Review the native figures PDF](https://github.com/HeKoXCode/miami-restaurant-opportunity-etl/blob/main/docs/media/technical/miami_caso_educativo_figuras_hq.pdf).
+
 ### 2. [NBA Analytics Platform](https://github.com/HeKoXCode/nba-analytics-platform)
 
 I turned six historical NBA datasets into an auditable ETL, a canonical SQL Server model and a six-page DirectQuery Power BI report.
 
 - **Stack:** Python, pandas, SQL Server, Power BI, DirectQuery and GitHub Actions.
-- **Evidence:** 161,111 input rows, 65,642 unique games, 15 Power BI objects, 11 tests and 89.92% coverage.
+- **Evidence:** 161,111 input rows, 65,642 unique games, 15 Power BI objects, 13 tests and 89.92% core ETL coverage.
 - **Quality boundary:** the repository processes 30.6 MB of versioned real inputs; it does not claim a completed 22 GB run.
-- **Result:** ETL, SQL reconciliation and all six report pages are verified through NBA-I4.
+- **Result:** English-authored six-page report, native high-resolution PDF, SQL reconciliation and a five-minute English reviewer guide. NBA is my main international case study.
 
-[![NBA historical performance dashboard](https://raw.githubusercontent.com/HeKoXCode/nba-analytics-platform/main/IMAGES/powerbi_storytelling/02_panorama_historico.png)](https://github.com/HeKoXCode/nba-analytics-platform)
+[![NBA historical performance dashboard — English edition](https://raw.githubusercontent.com/HeKoXCode/nba-analytics-platform/main/IMAGES/powerbi_english/02_historical_performance.png)](https://github.com/HeKoXCode/nba-analytics-platform)
+
+[Review the English report PDF](https://github.com/HeKoXCode/nba-analytics-platform/blob/main/DOCS/media/technical/nba_english_report_native_hq.pdf).
 
 ### 3. [Financial Performance Dashboard](https://github.com/HeKoXCode/financial-performance-dashboard-powerbi)
 
@@ -41,16 +45,22 @@ I redesigned and hardened an executive Power BI case around revenue, margin, cos
 
 [![Financial executive dashboard](https://raw.githubusercontent.com/HeKoXCode/financial-performance-dashboard-powerbi/main/Images/executive_overview.png)](https://github.com/HeKoXCode/financial-performance-dashboard-powerbi)
 
+[Review the native report PDF](https://github.com/HeKoXCode/financial-performance-dashboard-powerbi/blob/main/DOCS/media/technical/financial_reporte_completo_hq.pdf).
+
 ### 4. [Gestión Financiera](https://github.com/HeKoXCode/gestion-financiera-local) · Other project
 
 I maintain a local-first Django application for financed sales, loans, installments, collections, backups and reporting. It demonstrates product delivery and provides a privacy-aware bridge into analytics.
 
 - **Stack:** Python, Django, SQLite/PostgreSQL, Docker and pytest.
-- **Evidence:** 336 functional tests, 88% verified coverage and a Windows portable release with documented migration and package checks.
-- **Analytics bridge:** reconciled internal dashboard and an 11-file, pseudonymized Power BI-ready export.
+- **Evidence:** 337 functional tests passed in the current local check; the published release records 88% coverage and Windows migration/package checks.
+- **Analytics bridge:** reconciled dashboard, an 11-file pseudonymized BI export, current demo screenshots and native/vector analytical PDFs.
 - **Distribution:** `v1.8.0` includes the full portable ZIP, update package, SHA-256 checksums and release audits.
 
 [![Gestión Financiera analytical dashboard](https://raw.githubusercontent.com/HeKoXCode/gestion-financiera-local/main/docs/assets/analytics-gf-c2.png)](https://github.com/HeKoXCode/gestion-financiera-local)
+
+[Review the reconciled analytics PDF](https://github.com/HeKoXCode/gestion-financiera-local/blob/main/docs/media/technical/gestion_analitica_conciliada_hq.pdf).
+
+For a short overview across projects, see [Questions, metrics and evidence](media/linkedin/portfolio_p12_questions_metrics_evidence.pdf). This is an editorial portfolio document, not a screenshot or an employment-history claim.
 
 ## 🧩 Skills backed by evidence
 
